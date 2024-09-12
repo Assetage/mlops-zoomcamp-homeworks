@@ -6,6 +6,7 @@ data/
 .ipynb_checkpoints
 .bin
 *.db
+*.zip
 
 *.parquet
 *.html
@@ -23,5 +24,8 @@ __pycache__/
 **.terraform.lock*
 **terraform.tfstate*
 
+.pytest_cache
+
+aws
 
 .DS_Store
